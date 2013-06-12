@@ -11,6 +11,7 @@ From the commandline
     usage: java -jar DelFiles.jar [-debug] -filemask <File Mask> [-help] -rootpath <Path> [-version]
 
 Options:
+
 -debug                  enable debug logging
 -filemask <File Mask>   The file mask of the files to delete. e.g. *.pdf
 -help                   print this help information
