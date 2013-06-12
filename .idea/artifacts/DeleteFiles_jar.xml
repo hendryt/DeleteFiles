@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="DeleteFiles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeleteFiles_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DeleteFiles.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="DeleteFiles" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="application" name="ant" />
+        <element id="library" level="application" name="log4j-1.2.16" />
+        <element id="library" level="application" name="commons-cli-1.2" />
+        <element id="library" level="application" name="guava-14.0.1" />
+        <element id="library" level="application" name="TextAreaAppender" />
+      </element>
+      <element id="directory" name="conf">
+        <element id="file-copy" path="$PROJECT_DIR$/src/com/taylored_it/tools/log4j.properties" />
+      </element>
+    </root>
+  </artifact>
+</component>

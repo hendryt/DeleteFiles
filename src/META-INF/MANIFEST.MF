@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Taylored IT Limited
+Implementation-Title: Delete files based on pattern
+Implementation-Version: Build 1.0.1-b01
+Class-Path: lib/guava-14.0.1.jar lib/log4j-1.2.16.jar lib/commons-cli-
+ 1.2.jar lib/TextAreaAppender.jar
+Specification-Vendor: Taylored IT Limited
+Specification-Title: Delete files based on pattern
+Specification-Version: 1.0
+Main-Class: com.taylored_it.tools.DelFiles
+
