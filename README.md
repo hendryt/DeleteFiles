@@ -1,5 +1,5 @@
-					Delete Files
-					==============
+Delete Files
+==============
 
 Delete Files is a simple Java program to delete files from a directory tree based on a file mask.
 
